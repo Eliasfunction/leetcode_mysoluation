@@ -1,11 +1,20 @@
-This folder is Backup my solution in leetcode
-Use language to classify and name as follows:
+
+////****////
+
+If you can't find the file you need, please let me know and it will be uploaded as soon as possible.
+
+Or get the sharer's answer from leetcode
+
+Thanks everyone.
+
+////****////
+
+This folder backup my leetcode solution.
+Naming method:
 
 /leetcode/Solve-In-xxxxx/leetcode-yyyyy-qqqqq
 xxxxx = Language
 yyyyy = Question number
 qqqqq = Degree of difficulty(easy,medium,hard)
 
-All question number is 1787. 3/11/21
-
-Welcome to download and use ,but shall Indicate the source.
+1787 questions in leetcode. 3/11/21
