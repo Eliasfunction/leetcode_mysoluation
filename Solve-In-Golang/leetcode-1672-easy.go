@@ -11,5 +11,3 @@ func maximumWealth(accounts [][]int) int {
     }
     return max
 }
-
-//https://leetcode.com/problems/richest-customer-wealth/discuss/955331/Go-golang-solution
