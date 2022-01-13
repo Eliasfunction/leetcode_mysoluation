@@ -1,6 +1,6 @@
-###Leetcode solution
-##Naming method:
-#Solve-In-"Language"/leetcode-"Number"-"Dfficulty"
+### Leetcode solution
+## Naming method:
+# Solve-In-"Language"/leetcode-"Number"-"Dfficulty"
 
   Language = golang,python,asp...
   number = Question number
