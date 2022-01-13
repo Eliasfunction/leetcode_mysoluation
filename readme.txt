@@ -1,10 +1,8 @@
 
-This folder backup my leetcode solution.
+Leetcode solution.
 Naming method:
 
-/leetcode/Solve-In-xxxxx/leetcode-yyyyy-qqqqq
-xxxxx = Language
-yyyyy = Question number
-qqqqq = Degree of difficulty(easy,medium,hard)
-
-08/03/21
+Solve-In-"Language"/leetcode-"Number"-"Dfficulty"
+Language = golang,python,asp...
+number = Question number
+Dfficulty = Degree of difficulty(easy,medium,hard)
